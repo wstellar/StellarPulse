@@ -1,0 +1,53 @@
+[DOCUMENTATION]
+ORG_NAME="LUMENDEX"
+ORG_DBA="Powered by Stellar"
+ORG_URL="https://lumendex.netlify.app/"
+ORG_LOGO="https://lumendex.netlify.app/assets/logo.jpg"
+ORG_DESCRIPTION="Track fresh ecosystem trends, meme tokens, and high-potential Stellar assets in real time."
+ORG_OFFICIAL_EMAIL="smart.crypto@atomicmail.io"
+ORG_GITHUB="wstellar"
+
+[[CURRENCIES]]
+code="SFUEL"
+issuer="GA6V7VNQ47CL74RZZQAK5XNPYRREMBS5BK3PEGR6VET7ABEXT6UIQXXX"
+display_decimals=7
+name="StarFuel"
+desc="StarFuel powers digital economies across gaming, NFT, and metaverse experiences built on Stellar. Designed for microtransactions and instant payments, StarFuel enables seamless in-game economies and futuristic digital asset trading."
+conditions="Gaming / Metaverse"
+image="https://lumendex.netlify.app/assets/StarFuel.png"
+
+[[CURRENCIES]]
+code="LMAI"
+issuer="GA6V7VNQ47CL74RZZQAK5XNPYRREMBS5BK3PEGR6VET7ABEXT6UIQXXX"
+display_decimals=7
+name="LuminaAI"
+desc="LuminaAI is an AI-powered ecosystem token focused on automated trading intelligence, sentiment tracking, and predictive analytics within the Stellar blockchain. It introduces machine-learning tools that help traders identify emerging token trends before the market reacts."
+conditions="Artificial Intelligence"
+image="https://lumendex.netlify.app/assets/LuminaAI.png"
+
+[[CURRENCIES]]
+code="ORBT"
+issuer="GA6V7VNQ47CL74RZZQAK5XNPYRREMBS5BK3PEGR6VET7ABEXT6UIQXXX"
+display_decimals=7
+name="OrbitX"
+desc="OrbitX is a decentralized liquidity and trading token built for Stellar-based DeFi applications. It powers cross-market swaps, staking systems, and advanced yield opportunities while maintaining Stellar’s core strengths of speed and affordability."
+conditions="DeFi / Trading"
+image="https://lumendex.netlify.app/assets/OrbitX.png"
+
+[[CURRENCIES]]
+code="SPEPE"
+issuer="GA6V7VNQ47CL74RZZQAK5XNPYRREMBS5BK3PEGR6VET7ABEXT6UIQXXX"
+display_decimals=7
+name="StellarPepe"
+desc="StellarPepe combines meme culture with the lightning-fast efficiency of the Stellar blockchain. Designed for community engagement, viral campaigns, and fun utility features, StellarPepe brings humor and energy into the XLM ecosystem while maintaining ultra-low transaction fees."
+conditions="Meme / Community"
+image="https://lumendex.netlify.app/assets/StellarPepe.png"
+
+[[CURRENCIES]]
+code="NOVA"
+issuer="GA6V7VNQ47CL74RZZQAK5XNPYRREMBS5BK3PEGR6VET7ABEXT6UIQXXX"
+display_decimals=7
+name="NovaXLM"
+desc="NovaXLM is a next-generation utility token powering AI-driven tools and analytics across the Stellar ecosystem. Built for speed and scalability, NovaXLM focuses on smart automation, predictive market insights, and decentralized AI integrations. The project aims to bridge AI innovation with Stellar’s ultra-fast payment network."
+conditions="AI Infrastructure / Utility"
+image="https://lumendex.netlify.app/assets/NovaXLM.png"
